@@ -7,14 +7,26 @@ Really thanks to your visiting!
 
 <br/>
 
-## How to use?
+<details>
+<summary>How to use?</summary>
+<div markdown="1">
+
 - First, select the location you go
-- Second, select the type of food
+- Second, select the Food
 - Done! Isn't it easy? 🎉
+
+I really like...
+who leave the comment or review 🤗
 
 ![StandingOvationGIF](https://user-images.githubusercontent.com/79500842/195061430-888eb460-0218-4686-899b-3ee0cdb190ba.gif)
 
+
+</div>
+</details>
+
+
 <br/>
 
-## Over here!
-./[세종대](지역/세종대.md)
+## Come Here!
+- 광진구 (Gwangjin-gu)
+  - [세종대 (Sejong Univ.)](지역/세종대.md)
