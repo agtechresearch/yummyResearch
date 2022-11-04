@@ -19,6 +19,7 @@ who leave the comment or review 🤗
 
 ![StandingOvationGIF](https://user-images.githubusercontent.com/79500842/195061430-888eb460-0218-4686-899b-3ee0cdb190ba.gif)
 
+⁕ beta version
 
 </div>
 </details>
