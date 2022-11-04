@@ -11,8 +11,7 @@ Really thanks to your visiting!
 <summary>How to use?</summary>
 <div markdown="1">
 
-- First, select the location you go
-- Second, select the Food
+- Select the Food Type
 - Done! Isn't it easy? 🎉
 
 I really like...
@@ -27,6 +26,18 @@ who leave the comment or review 🤗
 
 <br/>
 
-## Come Here!
-- 광진구 (Gwangjin-gu)
-  - [세종대 (Sejong Univ.)](지역/세종대.md)
+# Come Here!
+
+- [동남아](food/동남아.md)
+- [양식](food/양식.md)
+- [일식](food/일식.md)
+- [중식](food/중식.md)
+- [한식](food/한식.md)
+
+- [육류](food/육류.md)
+- [학식](food/학식.md)
+- [국밥](food/국밥.md)
+
+
+- [빵](food/빵.md)
+- [카페](food/카페.md)
