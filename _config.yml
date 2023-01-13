@@ -26,6 +26,9 @@ baseurl: "/yummyResearch" # the subpath of your site, e.g. /blog
 url: "https://lazybuttrying.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: lazybuttrying
 
+header_pages:
+  - index.markdown
+
 # Build settings
 markdown: kramdown
 theme: minima
