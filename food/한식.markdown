@@ -18,7 +18,7 @@ layout: default
 - Comment: 주로 점심 때 가기 때문에 보쌈세트를 주문해 먹는 곳. 사이드로 나오는 반찬이 맛있고 전체적인 양도 생각보다 괜찮다. 개인적으로는 족발을 먹어보고 싶다.
 
 
-#### **육회콩나물밥** :star::star::star::star::star:
+#### **육회콩나물밥(육콩)** :star::star::star::star::star:
 - Address:부산 하단
 
 - Comment: 육회 비빔밥 로컬 맛집
