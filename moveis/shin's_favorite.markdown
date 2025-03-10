@@ -1,4 +1,4 @@
-### Best of Best :star::star::star::star:star:
+### Best of Best :star::star::star::star::star:
 
 
 ---
