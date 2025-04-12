@@ -22,3 +22,9 @@ layout: default
 - Address:부산 하단
 
 - Comment: 육회 비빔밥 로컬 맛집
+
+#### **만두전빵** :star::star::star::star::star:
+
+- Address: 서울 성동구 행당동
+
+- Comment: 안성재 맛집, 만두는 그냥 수제 만두 맛인데 육수가 참 맛있다
